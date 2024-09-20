@@ -2,7 +2,7 @@ package day01variables;
 
 import java.util.Scanner;
 
-public class C08_nestedif {
+public class C08_Nestedif {
     public static void main(String[] args) {
 
         // Bir kisinin kan bagisinda bulunup bulunamayacigini kontrol ediniz.

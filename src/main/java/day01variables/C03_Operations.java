@@ -1,6 +1,6 @@
 package day01variables;
 
-public class C03_operations {
+public class C03_Operations {
     public static void main(String[] args) {
 
         // Asagidaki isleme bakiniz ve sonuclari dondurunuz

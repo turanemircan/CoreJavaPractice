@@ -3,7 +3,7 @@ package day01variables;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class C04_scanner {
+public class C04_Scanner {
     public static void main(String[] args) {
 
         // Kullanicidan yaricap isteyip cemberin cevresini ve

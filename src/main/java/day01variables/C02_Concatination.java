@@ -1,6 +1,6 @@
 package day01variables;
 
-public class C02_concatination {
+public class C02_Concatination {
     public static void main(String[] args) {
 
         // Java da "+" sembolu iki sayi arasinda kullanilirsa "toplama islemi" olur

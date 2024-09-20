@@ -2,7 +2,7 @@ package day01variables;
 
 import java.util.Scanner;
 
-public class C05_scanner {
+public class C05_Scanner {
     public static void main(String[] args) {
 
         // Soru : Kullanicidan dikdortgenler prizmasinin uzun,

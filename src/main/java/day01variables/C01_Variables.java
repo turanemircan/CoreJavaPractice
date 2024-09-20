@@ -1,6 +1,6 @@
 package day01variables;
 
-public class C01_variables {
+public class C01_Variables {
     public static void main(String[] args) {
 
         /*

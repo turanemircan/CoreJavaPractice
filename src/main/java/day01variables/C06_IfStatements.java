@@ -2,7 +2,7 @@ package day01variables;
 
 import java.util.Scanner;
 
-public class C06_ifStatements {
+public class C06_IfStatements {
     public static void main(String[] args) {
 
         // if eğer demektir else değilse

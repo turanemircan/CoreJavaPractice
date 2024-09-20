@@ -2,7 +2,7 @@ package day01variables;
 
 import java.util.Scanner;
 
-public class C07_ifStatements {
+public class C07_IfStatements {
     public static void main(String[] args) {
 
         // Soru 1) Kullanicidan 100 uzerinden notunu isteyin.
