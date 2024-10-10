@@ -2,7 +2,7 @@ package day04;
 
 import java.util.Arrays;
 
-public class C01_arrays {
+public class C01_Arrays {
     public static void main(String[] args) {
 
         /*
